@@ -1,0 +1,44 @@
+div {
+    border-radius: 3px
+}
+
+#header {
+    height: 10%;
+    width: 99%;
+    background-color: #e8702d;
+    position: fixed;
+    z-index: 1;
+    text-align: center;
+}
+
+.left {
+    height: 500px;
+    width: 50%;
+    background-color:#ddffbb;
+    float: left;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.right {
+    background-color: #61d9e3;
+    height: 500px;
+    width: 50%;
+    float: right;
+    margin-top: 5%;
+    text-align: center;
+}
+
+#footer {
+    background-color: #5a5c5c;
+    clear: both;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    display: table;
+    margin-left: 25%
+}
